@@ -601,7 +601,7 @@ public abstract class CommonMetaTileEntity implements IMetaTileEntity {
      * are currently unfinished.
      */
     protected boolean forceUseMui2() {
-        return false;
+        return true;
     }
 
     @Override
